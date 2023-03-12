@@ -13,8 +13,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/nurdanokcu/tip-calculator-app]
-- Live Site URL: [https://nurdanokcu-tipcalculator.netlify.app/]
+- Solution URL: [Github Link](https://github.com/nurdanokcu/tip-calculator-app)
+- Live Site URL: [Demo Link](https://nurdanokcu-tipcalculator.netlify.app/)
+
 
 ## My process
 
@@ -24,7 +25,7 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- [VUE](https://vuejs.org/) - VUE
+- [VUE](https://vuejs.org/) - JS Framework
 
 
 ## Author
